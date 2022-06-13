@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @destinoDev (Micael Salton)
+- 👋 Hi, I’m @micaelsalton
 - 👀 I’m interested in (still on the early steps of my coding career)
 - 🌱 I’m currently learning (programming logic)
 - 💞️ I’m looking to collaborate on (anything basic)
